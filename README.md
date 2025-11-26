@@ -4,7 +4,7 @@
 <br>
 *Gergő Török, János Hadabás and István Megyeri*
 <br> <br>
-In this repository we present the code for our BorderAttack adversarial attack. 
+In this repository we present the code for our BorderAttack adversarial perturbation. 
 
 ## Dependencies
 
